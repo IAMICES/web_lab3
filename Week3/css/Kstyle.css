@@ -327,6 +327,8 @@
 		font-size: 147px;
 		font-family: sans-serif;
 		font-weight: bold;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	.percent{
 		position: absolute;
@@ -361,6 +363,8 @@
 		font-size: 45px;
 		font-family: commic sans;
 		font-weight: bold;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	.imgbaby{
 		position: absolute;
@@ -402,6 +406,8 @@
 		font-size: 45px;
 		font-family: commic sans;
 		font-weight: bold;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	.new{
 		position: absolute;
@@ -410,6 +416,8 @@
 		color: white;
 		font-family: commic sans;
 		font-size: 34px;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	.promo{
 		position: absolute;
@@ -418,6 +426,8 @@
 		color: white;
 		font-family: commic sans;
 		font-size: 34px;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	.pro{
 		position: absolute;
@@ -426,6 +436,8 @@
 		color: white;
 		font-family: commic sans;
 		font-size: 34px;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	.cart{
 		position: absolute;
@@ -442,6 +454,8 @@
 		font-size: 45px;
 		font-family: commic sans;
 		font-weight: bold;
+		white-space: nowrap;
+		overflow: hidden;
 	}
 	.more{
 		position: absolute;
