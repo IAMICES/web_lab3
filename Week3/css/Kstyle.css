@@ -10,6 +10,8 @@
 		padding-bottom: 5px;
 		margin-top: 20px;
 		margin-left: 10px;
+		white-space: nowrap;
+    	overflow: hidden;
 	}
 	.subhead{
 		position: absolute;
@@ -38,7 +40,7 @@
 		height: 100px;
 		top: 47px;
 		left: 1150px;
-		font-family: Noto Sans Regular;
+		font-family: sans-serif;
 		font-size: 24px;
 		color: #B0A9C7;
 		text-align: left;
@@ -61,7 +63,7 @@
 		height: 95px;
 		top: 47px;
 		left: 1347px;
-		font-family: Franklin Gothic Demi;
+		font-family: sans-serif;
 		font-size: 32px;
 		font-weight: bold;
 		text-align: center;
@@ -234,25 +236,45 @@
 		font-weight: bold;
 		font-size: 40px;
 		font-family: Muskamot Cond MF;
+		white-space: nowrap;
+		overflow: hidden;
 		
 	}
 	.textBody1{
 		left: 100px;
+		font-family: sans-serif;
+		font-weight: lighter;
+		font-size: 36px;
 	}
 	.textBody2{
 		left: 300px;
+		font-family: sans-serif;
+		font-weight: lighter;
+		font-size: 36px;
 	}
 	.textBody3{
 		left: 550px;
+		font-family: sans-serif;
+		font-weight: lighter;
+		font-size: 36px;
 	}
 	.textBody4{
 		left: 857px;
+		font-family: sans-serif;
+		font-weight: lighter;
+		font-size: 36px;
 	}
 	.textBody5{
 		left: 1130px;
+		font-family: sans-serif;
+		font-weight: lighter;
+		font-size: 36px;
 	}
 	.textBody6{
-		left: 1412px;
+		left: 1400px;
+		font-family: sans-serif;
+		font-weight: lighter;
+		font-size: 36px;
 	}
 	.flag{
 		position: absolute;
@@ -313,10 +335,10 @@
 	}	
 	.sale{
 		color: white;
-		font-size: 45px;
+		font-size: 40px;
 		padding-top: 20px;
 		padding-left: 20px;
-		font-family: Nimbus Sans Korean;
+		font-family: sans-serif;
 		font-weight: bold;
 	}
 	.number{
@@ -333,18 +355,20 @@
 	.percent{
 		position: absolute;
 		color: white;
-		top: 960px;
-		left: 695px;
-		font-size: 90px;
+		top: 975px;
+		left: 700px;
+		font-size: 70px;
 		font-family: sans-serif;
+		font-weight: bold; 
 	}
 	.off{
 		position: absolute;
 		color: white;
-		top: 1045px;
+		top: 1040px;
 		left: 700px;
-		font-size: 70px;
+		font-size: 60px;
 		font-family: sans-serif;
+		font-weight: bold;
 	}
 	.bgpurple{
 		position: absolute;
@@ -361,7 +385,7 @@
 		left: 50px;
 		color: white;
 		font-size: 45px;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-weight: bold;
 		white-space: nowrap;
 		overflow: hidden;
@@ -379,7 +403,7 @@
 		left: 292px;
 		width: 340px;
 		color: white;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-size: 34px;
 
 	}
@@ -404,7 +428,7 @@
 		left: 850px;
 		color: white;
 		font-size: 45px;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-weight: bold;
 		white-space: nowrap;
 		overflow: hidden;
@@ -414,27 +438,27 @@
 		top: 1375px;
 		left: 850px;
 		color: white;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-size: 34px;
 		white-space: nowrap;
 		overflow: hidden;
 	}
 	.promo{
 		position: absolute;
-		top: 1420px;
+		top: 1415px;
 		left: 850px;
 		color: white;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-size: 34px;
 		white-space: nowrap;
 		overflow: hidden;
 	}
 	.pro{
 		position: absolute;
-		top: 1465px;
+		top: 1455px;
 		left: 850px;
 		color: white;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-size: 34px;
 		white-space: nowrap;
 		overflow: hidden;
@@ -452,7 +476,7 @@
 		left: 1355px;
 		color: white;
 		font-size: 45px;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-weight: bold;
 		white-space: nowrap;
 		overflow: hidden;
@@ -463,6 +487,6 @@
 		left: 1355px;
 		width: 340px;
 		color: white;
-		font-family: commic sans;
+		font-family: sans-serif;
 		font-size: 34px;
 	}
